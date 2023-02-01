@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Khair
+ *
+ */
+module MyApp {
+}
