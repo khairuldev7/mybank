@@ -16,6 +16,7 @@ public class welcome {
 		System.out.println("MSi discount");
 	System.out.println("Devops has done his job");
 	System.out.println(450-9560);
-	}System.out.println("gooday");
+	}System.out.println("gooday")
+System.out.println(450-9560);
+	
 
-}

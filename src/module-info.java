@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Khair
- *
- */
-module MyApp {
