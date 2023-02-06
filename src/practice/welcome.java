@@ -18,5 +18,6 @@ public class welcome {
 	System.out.println(450-9560);
 	}System.out.println("gooday")
 System.out.println(450-9560);
+	System.out.println("Welcome");
 	
 
