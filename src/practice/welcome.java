@@ -26,6 +26,6 @@ System.out.println(450-9560);
 	System.out.println("25-63 ");
 	System.out.println("new game update");
 	System.out.println(250*58);
-	
+	System.out.println("newmodes");
 }
 }
