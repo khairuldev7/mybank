@@ -5,7 +5,7 @@ package practice;
 public class welcome {
 
 public static void main(String[] args) {
-	
+
 
 		
 		System.out.println("Welcome to DevOps Training");
@@ -33,10 +33,13 @@ System.out.println(450-9560);
 	System.out.println("sang");
 	System.out.println("approval is granted");
 	System.out.println("test 3");
-	System.out.println("newmodes")
+	System.out.println("newmodes");
 	System.out.println("Devops has done his job");
-	System.out.println("PS4")
+	System.out.println("PS4");
 	System.out.println("project 3");
 	System.out.println(200*85);
+	System.out.println("iphone testing complete");
+	System.out.println("Testing webhook trigger");
+
 }
 }
